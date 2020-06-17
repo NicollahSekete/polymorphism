@@ -1,0 +1,9 @@
+hallenge:
+                take multiple data types in methods with the same name and convert them into at least 3 different types
+                input string + int > convert them into a type of your choice and display them
+                input bool + float > convert them into a type of your choice
+                input decimal + null > convert them into a type of your choice
+            Extension:
+                incoporate encapsulation into this
+                    public method that will run private polymorphic methods with the data that is inputted
+        */
