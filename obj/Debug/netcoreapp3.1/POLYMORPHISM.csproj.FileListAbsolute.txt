@@ -1,0 +1,12 @@
+/Users/codenationstudent/Desktop/POLYMORPHISM/bin/Debug/netcoreapp3.1/POLYMORPHISM.deps.json
+/Users/codenationstudent/Desktop/POLYMORPHISM/bin/Debug/netcoreapp3.1/POLYMORPHISM.runtimeconfig.json
+/Users/codenationstudent/Desktop/POLYMORPHISM/bin/Debug/netcoreapp3.1/POLYMORPHISM.runtimeconfig.dev.json
+/Users/codenationstudent/Desktop/POLYMORPHISM/bin/Debug/netcoreapp3.1/POLYMORPHISM.dll
+/Users/codenationstudent/Desktop/POLYMORPHISM/bin/Debug/netcoreapp3.1/POLYMORPHISM.pdb
+/Users/codenationstudent/Desktop/POLYMORPHISM/obj/Debug/netcoreapp3.1/POLYMORPHISM.csprojAssemblyReference.cache
+/Users/codenationstudent/Desktop/POLYMORPHISM/obj/Debug/netcoreapp3.1/POLYMORPHISM.AssemblyInfoInputs.cache
+/Users/codenationstudent/Desktop/POLYMORPHISM/obj/Debug/netcoreapp3.1/POLYMORPHISM.AssemblyInfo.cs
+/Users/codenationstudent/Desktop/POLYMORPHISM/obj/Debug/netcoreapp3.1/POLYMORPHISM.csproj.CoreCompileInputs.cache
+/Users/codenationstudent/Desktop/POLYMORPHISM/obj/Debug/netcoreapp3.1/POLYMORPHISM.dll
+/Users/codenationstudent/Desktop/POLYMORPHISM/obj/Debug/netcoreapp3.1/POLYMORPHISM.pdb
+/Users/codenationstudent/Desktop/POLYMORPHISM/obj/Debug/netcoreapp3.1/POLYMORPHISM.genruntimeconfig.cache
